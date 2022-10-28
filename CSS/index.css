@@ -1,0 +1,85 @@
+  *{
+    margin: 0;
+    padding: 0;
+}     
+
+body{
+    background-image: url("https://www.warrenphotographic.co.uk/photography/bigs/01814-Small-rocky-waterfall-in-Iceland.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    width: 360px;
+    height: 600px;
+    margin: auto;
+    border-radius: 6px;
+    background-color: white; 
+}
+   
+
+ 
+  .intro{
+text-align: center;
+padding-top: 15px;
+}
+
+
+  .free {
+    text-align: center;
+    padding-top: 8px;
+}
+
+
+.reg {
+    width: 300px;
+    margin-left: 20px;
+}
+
+
+.fill-in{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+.field{
+    width: 100%;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    
+}
+
+
+.btn{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgb(42, 109, 90);
+    color: white;
+    cursor: pointer;
+}
+
+
+.agreement {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+
+
+.para{
+    text-align: center;
+    color: rgba(179, 121, 51, 0.692);
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.para a{
+    color: #419d86;
+}
